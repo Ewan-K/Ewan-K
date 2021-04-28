@@ -4,5 +4,5 @@
 <br>
 😊 Welcome to my GitHub profile!
 <br><br>
-🌱 I’m currently learning in ZJU.
+🌱 I’m currently learning CS in ZJU.
 
