@@ -2,6 +2,6 @@
 <br>
 
 ### Hi there, this is Ewan. 👋
-😊 Welcome to my GitHub profile!
+😊 Welcome to my GitHub profile!<br>
 🌱 I’m currently learning in ZJU.
 
