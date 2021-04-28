@@ -1,4 +1,4 @@
-### Hi there, this is Ewan 👋
+### Hi there, this is Ewan. 👋
 - 😊 Welcome to my GitHub profile!
 - 🌱 I’m currently learning in ZJU.
 
