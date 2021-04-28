@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ewan-K&hide_border=true&show_icons=true&theme=radical)">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ewan-K&show_icons=true&hide_border=true&theme=dracula)
+![Github Stats]<img align='right' src="https://github-readme-stats.vercel.app/api?username=Ewan-K&hide_border=true&show_icons=true&theme=radical">
 
 ### Hi there, this is Ewan. 👋
 - 😊 Welcome to my GitHub profile!
