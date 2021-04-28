@@ -2,10 +2,11 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ewan-K&show_icons=true&hide_border=true&theme=dracula)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ewan-K)
-
-
 ### Hi there, this is Ewan. 👋
 - 😊 Welcome to my GitHub profile!
 - 🌱 I’m currently learning in ZJU.
+- 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ewan-K)
+
+
 
