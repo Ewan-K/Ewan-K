@@ -5,6 +5,7 @@
 - 😊 Welcome to my GitHub profile!
 - 🌱 I’m currently learning in ZJU.
 
+---
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ewan-K)
 
 
