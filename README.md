@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Ewan-K&show_icons=true&theme=dracula)">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Ewan-K&show_icons=true&theme=radical)">
 
 
 ### Hi there, this is Ewan. 👋
