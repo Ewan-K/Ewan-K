@@ -1,5 +1,5 @@
 ### &nbsp;&nbsp;&nbsp;Hi there, this is Ewan. 👋
-</br></br>
+</br>
 &nbsp;&nbsp;
 😊 Welcome to my GitHub profile!
 </br></br>
