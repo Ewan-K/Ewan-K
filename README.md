@@ -17,6 +17,8 @@
 <a href="https://jupyter.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </br></br>
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewan-K&layout=compact&hide=html,css,less,ejs&langs_count=11&hide_border=true&theme=dracula">
 </br></br>
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=Ewan-K&hide_border=true&show_icons=true&theme=dracula">
