@@ -1,14 +1,13 @@
 name: Update gist with WakaTime stats
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 jobs:
   update-gist:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - name: Update gist
-        uses: matchai/waka-box@master
-        env:
-          GIST_ID: 720d5648853383555dec251a99d9bf5f
+      - uses: waka-readme@master
+        with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
