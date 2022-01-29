@@ -26,4 +26,7 @@
 <h3 align="left">📊 Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
+```text
+C++    2 hrs 27 mins   █████████████████████████   99.85 % 
+```
 <!--END_SECTION:waka-->
