@@ -26,7 +26,4 @@
 <h3 align="left">📊 Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
