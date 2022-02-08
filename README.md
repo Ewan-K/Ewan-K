@@ -27,7 +27,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++        2 hrs 4 mins    ████████████████████████▓   98.76 % 
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+
 ```
 <!--END_SECTION:waka-->
