@@ -27,6 +27,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 4 hrs 4 mins
+
 C++   4 hrs 4 mins    █████████████████████████   99.97 % 
 ```
 <!--END_SECTION:waka-->
