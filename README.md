@@ -1,4 +1,4 @@
-### &nbsp;&nbsp; Hi there, this is Ewan. 👋
+### &nbsp;&nbsp; Hi there, this is Ewan 👋
 &nbsp;&nbsp;
 😊 Welcome to my GitHub profile!
 </br></br>
