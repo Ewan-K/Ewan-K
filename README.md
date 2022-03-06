@@ -22,9 +22,9 @@
 </br></br>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=Ewan-K&hide_border=true&show_icons=true&theme=dracula">
-
+&nbsp;&nbsp;
 <h3 align="left">📊 Weekly development breakdown</h3>
-
+&nbsp;&nbsp;
 <!--START_SECTION:waka-->
 
 ```text
