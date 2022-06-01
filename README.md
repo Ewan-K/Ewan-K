@@ -28,9 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python        1 hr 52 mins    ███████████████████████░░   91.65 %
-Objective-C   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-MATLAB        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Python        3 hrs 7 mins    ███████████████████████▓░   94.83 %
+Objective-C   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+MATLAB        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
