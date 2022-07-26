@@ -3,7 +3,7 @@
 😊 Welcome to my GitHub profile!
 </br></br>
 &nbsp;&nbsp;
-🌱 I’m currently learning CS in ZJU.
+🌱 I’m currently working on iOS in ByteDance.
 </br></br>
 
 ### &nbsp;&nbsp; Languages and Tools
